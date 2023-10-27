@@ -27,5 +27,7 @@ package-lock.json
 ```
 gh-pages 库的主要作用是将项目文件 push 到目标仓库。可以使用 npx gh-pages --help 来查看 gh-pages 命令的用法。
 npm run chapter 可以生成目录文件 chapters.yml，生成后可以手动修改此文件。
+loppo 可以将 md 生成 html，用法见：https://github.com/ruanyf/loppo/blob/master/docs/template-variables.md
+
 
  
